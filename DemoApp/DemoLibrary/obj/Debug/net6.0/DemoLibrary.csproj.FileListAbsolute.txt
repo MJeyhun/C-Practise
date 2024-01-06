@@ -1,0 +1,11 @@
+E:\TimCoreyPractices\DemoApp\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+E:\TimCoreyPractices\DemoApp\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+E:\TimCoreyPractices\DemoApp\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+E:\TimCoreyPractices\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\TimCoreyPractices\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+E:\TimCoreyPractices\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+E:\TimCoreyPractices\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+E:\TimCoreyPractices\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+E:\TimCoreyPractices\DemoApp\DemoLibrary\obj\Debug\net6.0\refint\DemoLibrary.dll
+E:\TimCoreyPractices\DemoApp\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
+E:\TimCoreyPractices\DemoApp\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll
